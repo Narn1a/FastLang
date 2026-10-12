@@ -35,7 +35,7 @@ https://fastlang-production.up.railway.app/index.html
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/Narn1a/FastLang
+   git clone https://github.com/Narn1a/FastLang.git
    ```
 2. Откройте папку проекта.
 3. Откройте файл `index.html` в браузере.
